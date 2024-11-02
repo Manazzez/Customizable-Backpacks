@@ -1,0 +1,11 @@
+name: Backpack
+version: '1.1'
+main: manazzez.backpack.Main
+author: "Manazzez"
+api-version: '1.8.9'
+depend: [ Coins , ProtocolLib ]
+commands:
+  backpacks:
+    usage: "/Backpacks"
+    description: "Opens the backpacks GUI menu for you"
+    aliases: [bp, backpack]
