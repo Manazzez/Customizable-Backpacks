@@ -1,7 +1,7 @@
 # Backpack Plugin
 
-A Minecraft Spigot plugin that adds customizable backpacks to the game, allowing players to expand their inventory.
-It's still in development, so don't expect It to be fully functional. But It'll get there 😛
+A Minecraft Spigot plugin that adds customizable backpacks to the game, allowing players to expand their inventory. <br/>
+Keep in mind that it's still in development, so don't expect It to be fully functional. But It'll get there 😛
 
 ## Installation
 
